@@ -1,12 +1,12 @@
 {
-    "title": "Nerds of the 90s",
+    "title": "What Phase",
     "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://elated-bartik-7fd6e9.netlify.app",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
-            "name": "Max Böck",
+            "name": "GiannisStan",
             "url": "https://github.com/maxboeck"
         }
     ]
